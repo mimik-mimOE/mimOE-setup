@@ -13,7 +13,7 @@ mimOE is available in 2 versions:
 
 Follow instructions below to install mimOE or mimOE-ai using shell script.
 
-⚠️ **Shell scripts below can only be used on below operating systems** ⚠️
+⚠️ **Shell scripts can only be used on below operating systems** ⚠️
 
 1. Apple macOS
 2. Linux(amd64 and arm64)
@@ -21,7 +21,7 @@ Follow instructions below to install mimOE or mimOE-ai using shell script.
 ## install mimOE or mimOE-ai using shell script.
 
 1.  Go to [Releases](https://github.com/mimik-mimOE/mimOE-setup/releases "mimOE install shell script download page")
-2.  under <font color="green">Latest</font> click on:
+2.  Under <font color="green">Latest</font> click on:
     - "install-mimOE.sh" if you want standard version
     - "install-mimOE-ai.sh" if you want AI enabled version
 3.  This will download shell script on to your computer
@@ -34,7 +34,7 @@ Follow instructions below to install mimOE or mimOE-ai using shell script.
     ```shell
     ./install-mimOE.sh
     ```
-7.  You should see start logs similar to below
+7.  You should see mimOE start logs similar to below
     ```json
     Downloading mimOE-SE-macOS-developer-arm-v3.12.0.zip...
     % Total % Received % Xferd Average Speed Time Time Time Current
