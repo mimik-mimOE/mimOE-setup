@@ -69,3 +69,19 @@ Follow instructions below to install mimOE or mimOE-ai using shell script.
     [2024-09-18 11:57:07.783] [info] Tunnel (1) Established
     ```
 8.  You now have mimOE runtime up and running on your machine
+
+## Download Shell script using cURL
+
+- Note: You may need to install cURL before running below commands
+
+- Run command below to download "install-mimOE.sh"
+
+```bash
+curl -L -o- https://github.com/mimik-mimOE/mimOE-setup/releases/download/v3.x/install-mimOE.sh | bash
+```
+
+- Run command below to download "install-mimOE-ai.sh"
+
+```bash
+curl -L -o- https://github.com/mimik-mimOE/mimOE-setup/releases/download/v3.x/install-mimOE-ai.sh | bash
+```
