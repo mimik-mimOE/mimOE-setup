@@ -35,7 +35,7 @@ Follow instructions below to install mimOE or mimOE-ai using shell script.
     ./install-mimOE.sh
     ```
 7.  You should see mimOE start logs similar to below
-    ```json
+    ```log
     Downloading mimOE-SE-macOS-developer-arm-v3.12.0.zip...
     % Total % Received % Xferd Average Speed Time Time Time Current
     Dload Upload Total Spent Left Speed
